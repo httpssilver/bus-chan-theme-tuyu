@@ -253,9 +253,9 @@
         "PRIMARY_DARK_400": "#c94d4b"
     },
     "background": {
-        "blur": 0,
+        "blur": 0.4,
         "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280323053477302282/image.png?ex=66d7a943&is=66d657c3&hm=c923699ebca98ad308b99bf4d437266c25377317ac074dd967e1f73e9fb15d8f&",
-        "alpha": 0.9
+        "alpha": 1.0
     },
     "color": "#881c3c"
 }
