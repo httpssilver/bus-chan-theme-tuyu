@@ -1,6 +1,6 @@
 {
     "name": "bus-chan",
-    "description": "Art by tuyu",
+    "description": "Art by tuyu (Updated for better embed visibility)",
     "authors": [
         {
             "name": "Silvy",
@@ -9,7 +9,7 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#dc758c",
+        "mentionLineColor": "#881c3c",
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
@@ -95,11 +95,6 @@
             "#413735",
             "#28201e"
         ],
-        "BACKGROUND_MENTIONED": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#433937",
             "#413735",
@@ -120,25 +115,8 @@
             "#413735",
             "#28201e"
         ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#433937",
-            "#413735",
-            "#28201e"
+        "BACKGROUND_MENTIONED": [
+            "rgba(136, 28, 60, 0.3)"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#433937",
@@ -151,52 +129,12 @@
             "#28201e"
         ],
         "TEXT_LINK": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "TEXT_DANGER": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
-        ],
-        "KEYBOARD": [
-            "#FFFFFF",
-            "#FFFFFF",
-            "#FFFFFF"
+            "#881c3c",
+            "#881c3c",
+            "#881c3c"
         ],
         "CHANNEL_ICON": [
             "#585b69"
-        ],
-        "CHAT_BACKGROUND": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "CARD_PRIMARY_BG": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "CARD_SECONDARY_BG": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#433937",
-            "#413735",
-            "#28201e"
-        ],
-        "BG_BACKDROP": [
-            "#433937",
-            "#413735",
-            "#28201e"
         ],
         "CHANNEL_ICON_ACTIVE": [
             "#494a70"
@@ -204,7 +142,7 @@
     },
     "rawColors": {
         "PRIMARY_500": "#6d6b7a",
-        "PRIMARY_100": "#dc758c",
+        "PRIMARY_100": "#881c3c",
         "PRIMARY_200": "#5b5361",
         "PRIMARY_230": "#fbf4f8",
         "PRIMARY_300": "#877f90",
@@ -212,50 +150,30 @@
         "PRIMARY_400": "#d4d4e6",
         "PRIMARY_600": "#5b5361",
         "PRIMARY_630": "#e1cdd9",
-        "PRIMARY_645": "#ef7e9d",
+        "PRIMARY_645": "#881c3c",
         "PRIMARY_660": "#d49baf",
         "PRIMARY_700": "#ffffff",
         "PRIMARY_800": "#ffffff",
-        "PLUM_1": "#a3a6df",
-        "PLUM_3": "#dc758c",
-        "PLUM_6": "#fbf4f8",
-        "PLUM_9": "#ffffff",
-        "PLUM_10": "#345ff9",
-        "PLUM_11": "#d63f89",
-        "PLUM_13": "#7e6e7e",
-        "PLUM_17": "#ffffff",
-        "PLUM_18": "#ffffff",
-        "PLUM_19": "#dc758c",
-        "PLUM_20": "#0E1832",
-        "PLUM_22": "#7e6e7e",
-        "PLUM_24": "#a3a6df",
-        "BRAND_260": "#dc758c",
+        "BRAND_260": "#881c3c",
         "BRAND_360": "#fbf4f8",
         "BRAND_500": "#ffffff",
         "BRAND_560": "#ffffff",
         "YELLOW_300": "#6d6b7a",
-        "YELLOW_260": "#ffffff",
-        "GREEN_600": "#345ff9",
-        "GREEN_360": "#dc758c",
+        "GREEN_360": "#881c3c",
         "RED_400": "#877f90",
         "WHITE_500": "#5b5361",
         "BACKGROUND_PRIMARY": "#7c7893",
         "BACKGROUND_SECONDARY": "#252641",
         "HEADER_PRIMARY": "#FFFFFF",
         "TEXT_NORMAL": "#FFFFFF",
-        "CHANNEL_ICON": "#585b69",
-        "CHANNEL_ICON_ACTIVE": "#494a70",
-        "PRIMARY_DARK": "#534626",
-        "PRIMARY_DARK_100": "#e9c699",
-        "PRIMARY_DARK_200": "#503c21",
-        "PRIMARY_DARK_300": "#504327",
-        "PRIMARY_DARK_360": "#cb4742",
-        "PRIMARY_DARK_400": "#c94d4b"
+        "INTERACTIVE_NORMAL": "#FFFFFF",
+        "INTERACTIVE_HOVER": "#FFFFFF",
+        "INTERACTIVE_ACTIVE": "#FFFFFF"
     },
     "background": {
-        "blur": 0.4,
+        "blur": 0,
         "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280323053477302282/image.png?ex=66d7a943&is=66d657c3&hm=c923699ebca98ad308b99bf4d437266c25377317ac074dd967e1f73e9fb15d8f&",
-        "alpha": 0.6
+        "alpha": 0.7
     },
-    "color": "#dc758c"
+    "color": "#881c3c"
 }
