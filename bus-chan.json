@@ -1,6 +1,6 @@
 {
     "name": "bus-chan",
-    "description": "Art by tuyu (Updated for better text visibility)",
+    "description": "Art by tuyu",
     "authors": [
         {
             "name": "Silvy",
@@ -9,50 +9,50 @@
     ],
     "plus": {
         "version": 0,
-        "mentionLineColor": "#881c3c",
+        "mentionLineColor": "#dc758c",
         "iconpack": "rosiecord-plumpy"
     },
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#1a1a1a",
-            "#1a1a1a",
-            "#1a1a1a"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#FFFFFF"
         ],
         "TEXT_PRIMARY": [
-            "#000000",
-            "#000000",
-            "#000000"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#4a4a4a",
-            "#4a4a4a",
-            "#4a4a4a"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#2a2a2a",
-            "#2a2a2a",
-            "#2a2a2a"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "INTERACTIVE_HOVER": [
-            "#000000",
-            "#000000",
-            "#000000"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#000000",
-            "#000000",
-            "#000000"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#4a4a4a",
-            "#4a4a4a",
-            "#4a4a4a"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
             "#7c7893"
@@ -151,19 +151,19 @@
             "#28201e"
         ],
         "TEXT_LINK": [
-            "#881c3c",
-            "#881c3c",
-            "#881c3c"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "TEXT_DANGER": [
-            "#881c3c",
-            "#881c3c",
-            "#881c3c"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "KEYBOARD": [
-            "#000000",
-            "#000000",
-            "#000000"
+            "#FFFFFF",
+            "#FFFFFF",
+            "#FFFFFF"
         ],
         "CHANNEL_ICON": [
             "#585b69"
@@ -203,46 +203,46 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#3a3a3a",
-        "PRIMARY_100": "#881c3c",
+        "PRIMARY_500": "#6d6b7a",
+        "PRIMARY_100": "#dc758c",
         "PRIMARY_200": "#5b5361",
-        "PRIMARY_230": "#f0e8ec",
+        "PRIMARY_230": "#fbf4f8",
         "PRIMARY_300": "#877f90",
-        "PRIMARY_360": "#000000",
+        "PRIMARY_360": "#ffffff",
         "PRIMARY_400": "#d4d4e6",
         "PRIMARY_600": "#5b5361",
         "PRIMARY_630": "#e1cdd9",
-        "PRIMARY_645": "#881c3c",
+        "PRIMARY_645": "#ef7e9d",
         "PRIMARY_660": "#d49baf",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
+        "PRIMARY_700": "#ffffff",
+        "PRIMARY_800": "#ffffff",
         "PLUM_1": "#a3a6df",
-        "PLUM_3": "#881c3c",
-        "PLUM_6": "#f0e8ec",
-        "PLUM_9": "#000000",
+        "PLUM_3": "#dc758c",
+        "PLUM_6": "#fbf4f8",
+        "PLUM_9": "#ffffff",
         "PLUM_10": "#345ff9",
         "PLUM_11": "#d63f89",
         "PLUM_13": "#7e6e7e",
-        "PLUM_17": "#000000",
-        "PLUM_18": "#000000",
-        "PLUM_19": "#881c3c",
+        "PLUM_17": "#ffffff",
+        "PLUM_18": "#ffffff",
+        "PLUM_19": "#dc758c",
         "PLUM_20": "#0E1832",
         "PLUM_22": "#7e6e7e",
         "PLUM_24": "#a3a6df",
-        "BRAND_260": "#881c3c",
-        "BRAND_360": "#f0e8ec",
-        "BRAND_500": "#000000",
-        "BRAND_560": "#000000",
+        "BRAND_260": "#dc758c",
+        "BRAND_360": "#fbf4f8",
+        "BRAND_500": "#ffffff",
+        "BRAND_560": "#ffffff",
         "YELLOW_300": "#6d6b7a",
-        "YELLOW_260": "#000000",
+        "YELLOW_260": "#ffffff",
         "GREEN_600": "#345ff9",
-        "GREEN_360": "#881c3c",
+        "GREEN_360": "#dc758c",
         "RED_400": "#877f90",
         "WHITE_500": "#5b5361",
         "BACKGROUND_PRIMARY": "#7c7893",
         "BACKGROUND_SECONDARY": "#252641",
-        "HEADER_PRIMARY": "#000000",
-        "TEXT_NORMAL": "#000000",
+        "HEADER_PRIMARY": "#FFFFFF",
+        "TEXT_NORMAL": "#FFFFFF",
         "CHANNEL_ICON": "#585b69",
         "CHANNEL_ICON_ACTIVE": "#494a70",
         "PRIMARY_DARK": "#534626",
@@ -255,7 +255,7 @@
     "background": {
         "blur": 0.4,
         "url": "https://cdn.discordapp.com/attachments/1279925910761377907/1280323053477302282/image.png?ex=66d7a943&is=66d657c3&hm=c923699ebca98ad308b99bf4d437266c25377317ac074dd967e1f73e9fb15d8f&",
-        "alpha": 1.0
+        "alpha": 0.6
     },
-    "color": "#881c3c"
+    "color": "#dc758c"
 }
